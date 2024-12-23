@@ -1,2 +1,4 @@
 # gitPractice
-This is my first Git Repository. I will master git.
+This is my first Git Repository.
+<br>
+I will master git.
